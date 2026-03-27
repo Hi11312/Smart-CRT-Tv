@@ -3,7 +3,8 @@ Soo Ive alway wanting to do this For Years But I wont be able to do so becuase o
 The Main android Tv
 https://www.alibaba.com/product-detail/Cheapest-Android-Universal-TV-Mainboard-TV_1601440727446.html?spm=a2700.details.you_may_like.1.4d8a42e7LfEcmF
 
-https://sc04.alicdn.com/kf/Hab4d1ff2d94b4a2f93890503da4fd6f4K/201313665/Hab4d1ff2d94b4a2f93890503da4fd6f4K.jpg
+
+
 
 
 
