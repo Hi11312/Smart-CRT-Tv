@@ -15,8 +15,12 @@ https://www.alibaba.com/product-detail/Cheapest-Android-Universal-TV-Mainboard-T
 Convrt this from LVDs to HDmi 
 https://www.aliexpress.us/item/2261800145190620.html?src=google&pdp_npi=4%40dis%21USD%217.27%217.18%21%21%21%21%21%40%2112000036642225073%21ppc%21%21%21&gatewayAdapt=glo2usa
 
+![image alt]
+
 HDmi To VGA or Go to RGB/Component
 https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00SW9JI9A/ref=sr_1_4?sr=8-4
+
+![image alt]
 
 And Convert VGA RGB to just RGB
 https://retrorgb.com/vgaconnector.html
