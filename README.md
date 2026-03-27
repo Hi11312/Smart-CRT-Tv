@@ -12,7 +12,7 @@ https://www.alibaba.com/product-detail/Cheapest-Android-Universal-TV-Mainboard-T
 
 
 
-Convrt this from LVDs to HDmi 
+Convert this from LVDs to HDmi 
 https://www.aliexpress.us/item/2261800145190620.html?src=google&pdp_npi=4%40dis%21USD%217.27%217.18%21%21%21%21%21%40%2112000036642225073%21ppc%21%21%21&gatewayAdapt=glo2usa
 
 ![image alt](https://raw.githubusercontent.com/Hi11312/Smart-CRT-Tv/refs/heads/main/Sd2bbb203615e4808985e3c8a66a500b2r.jpg_220x220q75.jpg_.avif)
