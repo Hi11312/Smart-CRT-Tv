@@ -1,4 +1,4 @@
-(Disclaimer I am New I never made A Page Before and I have Low knolage in Modding I did last was add Picoboot in My gamecube when i was 16 three years ago)
+(Disclaimer I am New I never made A Page Before and I have Low knolage in Modding the last time I was adding a Picoboot in My gamecube when I was 16 three years ago)
 
 Soo Ive alway wanting to do this For Years But I wont be able to do so becuase of money storage and i need a crt but I want to share my proccese so far
 
