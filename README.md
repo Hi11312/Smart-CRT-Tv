@@ -39,6 +39,9 @@ it will be soo cool and it adds native HDMI to the CRT and bring Back A DIGital 
 I did Lie in the video but it turns out someone did make the same type of project i want to make but its not the same vision i want exactly but i didnt found out until after posting it
 but you follow the other guy for a guild line i guess if you need too
 https://www.youtube.com/watch?v=BBgRmFOugrs&t=1021s 
+[![Watch the video](https://img.youtube.com/vi/BBgRmFOugrs/maxresdefault.jpg)](https://youtu.be/BBgRmFOugrs)
+
+### [Watch this video on YouTube](https://youtu.be/BBgRmFOugrs)
 
 But heres my video expaining it better i guess
 https://www.youtube.com/shorts/qwFfIEsKD1I
