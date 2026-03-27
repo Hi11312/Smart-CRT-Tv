@@ -28,7 +28,7 @@ https://retrorgb.com/vgaconnector.html
 ![image alt](https://github.com/Hi11312/Smart-CRT-Tv/blob/main/VGAConnector-02.jpg)
 
 Inject the RGb input in here Bypassing the main chip so the smart tv can turn it on and control it 
-https://www.youtube.com/watch?v=r5SXXBANvhk&t=924s
+![Video alt](https://www.youtube.com/watch?v=r5SXXBANvhk&t=924s)
 
 
 and 3d Printed IO so it look nice and solder leads from the Smart tv board Controls to the fron controls on the CRT
