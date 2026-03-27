@@ -25,7 +25,7 @@ https://www.amazon.com/Moread-Gold-Plated-Projector-Chromebook-Raspberry/dp/B00S
 And Convert VGA RGB to just RGB
 https://retrorgb.com/vgaconnector.html
 
-![image alt](
+![image alt](https://github.com/Hi11312/Smart-CRT-Tv/blob/main/VGAConnector-02.jpg)
 
 Inject the RGb input in here Bypassing the main chip so the smart tv can turn it on and control it 
 https://www.youtube.com/watch?v=r5SXXBANvhk&t=924s
