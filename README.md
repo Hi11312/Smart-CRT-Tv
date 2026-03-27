@@ -6,7 +6,8 @@ The Main android Tv
 https://www.alibaba.com/product-detail/Cheapest-Android-Universal-TV-Mainboard-TV_1601440727446.html?spm=a2700.details.you_may_like.1.4d8a42e7LfEcmF
 
 
-https://raw.githubusercontent.com/muratcanbalaban/model_assistant/main/hdmi.jpg
+![image alt]
+
 
 
 
