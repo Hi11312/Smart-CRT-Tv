@@ -18,8 +18,13 @@ https://www.youtube.com/watch?v=r5SXXBANvhk&t=924s
 
 and 3d Printed IO so it look nice and solder leads from the Smart tv board Controls to the fron controls on the CRT
 maybe make the new remote working with the power and channels and also volume 
+
 it will be soo cool and it adds native HDMI to the CRT and bring Back A DIGital TV TUnner 
+
 I did Lie in the video but it turns out someone did make the same type of project i want to make but its not the same vision i want exactly but i didnt found out until after posting it
-but you follow the other guy for a guild line i guess https://www.youtube.com/watch?v=BBgRmFOugrs&t=1021s if you need too
-But heres my video https://www.youtube.com/shorts/qwFfIEsKD1I
+but you follow the other guy for a guild line i guess if you need too
+https://www.youtube.com/watch?v=BBgRmFOugrs&t=1021s 
+
+But heres my video expaining it better i guess
+https://www.youtube.com/shorts/qwFfIEsKD1I
 
