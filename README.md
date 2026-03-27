@@ -29,7 +29,9 @@ https://retrorgb.com/vgaconnector.html
 
 Inject the RGb input in here Bypassing the main chip so the smart tv can turn it on and control it 
 (https://www.youtube.com/watch?v=r5SXXBANvhk&t=924s)
+[![Watch the video](https://img.youtube.com/vi/r5SXXBANvhk/maxresdefault.jpg)](https://youtu.be/r5SXXBANvhk)
 
+### [Watch this video on YouTube](https://youtu.be/r5SXXBANvhk)
 
 and 3d Printed IO so it look nice and solder leads from the Smart tv board Controls to the fron controls on the CRT
 maybe make the new remote working with the power and channels and also volume 
