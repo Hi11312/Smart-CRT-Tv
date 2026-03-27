@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=BBgRmFOugrs&t=1021s
 
 But heres my video expaining it better i guess
 https://www.youtube.com/shorts/qwFfIEsKD1I
-[![Watch the video](https://img.youtube.com/vi/BBgRmFOugrs/maxresdefault.jpg)]([https://www.youtube.com/shorts/qwFfIEsKD1I)
+[![Watch the video](https://i.ytimg.com/vi/qwFfIEsKD1I/oar2.jpg?sqp=-oaymwErCJUDEOAESFqQAgHyq4qpAxoIARUAAIhCyAEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDu2n7ihm8PQk8r4fkg1HF-qxIcgQ&usqp=CCk)]([https://www.youtube.com/shorts/qwFfIEsKD1I)
 
-### [Watch this video on YouTube](https://youtu.be/BBgRmFOugrs)
+### [Watch this video on YouTube](https://www.youtube.com/shorts/qwFfIEsKD1I)
 
