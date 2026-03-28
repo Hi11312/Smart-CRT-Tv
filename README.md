@@ -51,3 +51,10 @@ https://www.youtube.com/shorts/qwFfIEsKD1I
 
 ### [Watch this video on YouTube](https://www.youtube.com/shorts/qwFfIEsKD1I)
 
+
+
+
+
+A More Polished Website I made
+https://sites.google.com/view/smart-crt-tv/home
+
